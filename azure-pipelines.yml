@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: learn
+  name: LearnTestAgentPool
 
 steps:
 - task: Maven@3
